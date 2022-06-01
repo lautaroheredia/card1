@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(236, 245, 245);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.container{
+    border-radius: 20px;
+}
+
+.box{
+    text-align: center;
+    width: 400px;
+    height: 700px;
+    position: relative;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.img-1{
+    max-width: 400px;
+    border-radius: 20px;
+}
+
+.img-2{
+    max-width: 50px;
+}
+
+.container-2{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.texto-1{
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+.texto-2{
+    margin: 10px;
+    line-height: 25px;
+    color: rgb(147, 155, 161);
+}
+
+.btn-1{
+    background-color: rgb(184, 52, 184);
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-2{
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 50px;
+    
+}
+
+
